@@ -1,6 +1,8 @@
 # A data analysis of Carbon dioxide emission Vs GDP per capita
 
-    ![project roadmap](project_roadmap.png)
+<p align="center">
+  <img src="project_roadmap.png" width="600" title="Project Roadmap">
+</p>
 
 <hr />
 
