@@ -6,6 +6,16 @@
 
 <hr />
 
+## Method of Data Analysis included,
+* Descriptive Analysis
+* Exploratory Data Analysis
+* Diagnostic Analysis
+* Predictive analysis
+
+<hr />
+
+## Project Structure
+
 [1_data_preparation](https://github.com/kankaungmalay/data_analysis_co2_vs_gdp/tree/main/1_data_preparation) - All the files which are used to prepare the final dataset. 
 
 [2_datasets](https://github.com/kankaungmalay/data_analysis_co2_vs_gdp/tree/main/2_dataset) - Final dataset of the project and its related files.
