@@ -6,6 +6,10 @@
 
 <hr />
 
+Research Question: What are the impacts of Co2 emission(climate change) on GDP per capita(financial stability)?
+
+Brief: we are interested in performing a full data analysis study on climate change datasets that are publicly available.  Based on our preliminary research, we discovered that CO2 emissions are the most damaging environmental component, while the GDP per capita is an urgent issue that must be addressed. Therefore, we will analyze and compare the subsequent effects of CO2 and GDP on global climate change for some developed and developing countries. 
+
 ## Method of Data Analysis included,
 * Descriptive Analysis
 * Exploratory Data Analysis
